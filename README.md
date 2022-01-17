@@ -1,5 +1,9 @@
 # Todo
 
+In order to organize different microservices within the same structure, the repo was moved here:
+
+* https://github.com/godddesign/todolistservice
+
 ## Description
 
 A todo list implementation as an excuse to explore building Go microservices and micromonoliths based on DDD practices.
